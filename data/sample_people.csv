@@ -1,0 +1,9 @@
+entity_id,entity_type,name,email,affiliation,last_seen,notes
+1,Person,Alice Carter,alice@gotham.test,Axis Corp,2024-05-20,"Met with Bob to discuss contract extension."
+2,Person,Robert Diaz,bob@gotham.test,Axis Corp,2024-05-18,"Attended security summit in Berlin."
+3,Person,Charlie Kwan,charlie@gotham.test,Helios Labs,2024-05-21,"Mentioned collaboration with Axis Corp in Q3."
+4,Organization,Axis Corp,,Global,2024-05-20,"Preparing to launch new satellite division."
+5,Organization,Helios Labs,,Research,2024-05-19,"Secured funding from VentureX."
+6,Interaction,Project Orpheus,,Axis Corp,2024-05-17,"Codename cited in internal memo."
+7,Person,Alice Carter,alice.carter@personal.test,Axis Corp,2024-05-21,"Duplicate record captured during ingest."
+8,Interaction,Berlin Summit,,Global,2024-05-18,"Axis Corp and Helios Labs delegates met."
